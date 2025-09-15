@@ -17,3 +17,8 @@ Development Tools:
 
 pytest, black, flake8 - Common Python development tools (commented out, but easy to enable)
 
+### bash
+git clone https://github.com/yourusername/physiCCs.git
+cd physiCCs
+pip install -r requirements.txt
+
